@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Maracujacake.github.io/my-portfolio-site",
+  "homepage": "https://Maracujacake.github.io/my-portfolio-sites",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
